@@ -4,10 +4,10 @@
 EnOcean用送受信モジュールです。TCM410Jを搭載しています。
 
 # ピンアサイン
-1.TX (which the base unit uses to transmit data to the Grove module)
-2.RX (which the base unit uses to receive data, so it is an input)
-3.VCC
-4.GND
+1.TX (which the base unit uses to transmit data to the Grove module)  
+2.RX (which the base unit uses to receive data, so it is an input)  
+3.VCC  
+4.GND  
 
 # 使い方
 ボーレート57600baudでシリアル通信が出来ます
