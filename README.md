@@ -1,4 +1,5 @@
 # EnOceanModule
+![商品](https://github.com/yukima77/EnOceanModule/blob/images/001.JPG)
 
 # 説明
 EnOcean用送受信モジュールです。TCM410Jを搭載しています。
@@ -17,6 +18,10 @@ M5Stack
 M5Stick  
 Atom Matrix  
 micro:bit  
+
+# 接続例
+![M5Stack](https://github.com/yukima77/EnOceanModule/blob/images/002.JPG)
+![micro:bit](https://github.com/yukima77/EnOceanModule/blob/images/003.JPG)
 
 # License
 This software is released under the MIT License, see LICENSE.
