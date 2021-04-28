@@ -18,6 +18,7 @@ M5Stack
 M5Stick  
 Atom Matrix  
 micro:bit  
+SeeeduinoXIAO
 
 # 接続例
 ![M5Stack](https://github.com/yukima77/EnOceanModule/blob/images/002.JPG)
