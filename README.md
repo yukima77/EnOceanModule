@@ -1,3 +1,5 @@
+**バージョンによって、ピンアサインが変更になっています。ご注意ください。誤って設定した場合もモジュールが破損することはありません。**
+
 # EnOceanModule
 ![商品](https://github.com/yukima77/EnOceanModule/blob/images/001.JPG)
 
@@ -5,6 +7,15 @@
 EnOcean用送受信モジュールです。TCM410Jを搭載しています。
 
 # ピンアサイン
+Seeed社のGroveSystemのピンアサインに合わせる為、v1.1よりピンアサインを変更しています。バージョン情報がプリント基板に記載されていない以前のモジュールとはピンアサインが変更になっていますのでご注意下さい。v1.1以降は、GroveSystemの使ったボードでのHardwareSerialを使った通信も可能になります。
+
+### v1.1
+1.RX (which the base unit uses to receive data, so it is an input)  
+2.TX (which the base unit uses to transmit data to the Grove module)  
+3.VCC  
+4.GND  
+
+### 無印
 1.TX (which the base unit uses to transmit data to the Grove module)  
 2.RX (which the base unit uses to receive data, so it is an input)  
 3.VCC  
