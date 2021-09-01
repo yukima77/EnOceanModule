@@ -7,7 +7,8 @@
 EnOcean用送受信モジュールです。TCM410Jを搭載しています。
 
 # ピンアサイン
-Seeed社のGroveSystemのピンアサインに合わせる為、v1.1よりピンアサインを変更しています。バージョン情報がプリント基板に記載されていない以前のモジュールとはピンアサインが変更になっていますのでご注意下さい。v1.1以降は、GroveSystemの使ったボードでのHardwareSerialを使った通信も可能になります。
+Seeed株式会社のGroveSystemのピンアサインに合わせる為、v1.1よりピンアサインを変更しています。バージョン情報がプリント基板に記載されていない以前のモジュールとはピンアサインが変更になっていますのでご注意下さい。v1.1以降は、GroveSystemの使ったボードでのHardwareSerialを使った通信も可能になります。
+[Seeed株式会社GroveSystem](https://wiki.seeedstudio.com/Grove_System/)
 
 ### v1.1
 1.RX (which the base unit uses to receive data, so it is an input)  
